@@ -6,4 +6,5 @@ I have embarked on a mission to conquer 100 Leetcode challenges. To maintain a s
 | Day no. | Title    | Approach             | Link |
 | :------ | :------- | :------------------- | :-----|
 | `1` | `Three Sum` | **Two pointer** | [Leetcode](https://leetcode.com/problems/3sum/description/) |
+| `2` | `Three Sum Closest` | **Two pointer** | [Leetcode](https://leetcode.com/problems/3sum-closest/description/) |
 
