@@ -3,8 +3,8 @@ I have embarked on a mission to conquer 100 Leetcode challenges. To maintain a s
 
 ### Index
 
-| Day no. | Title    | Approach             | Link |
-| :------ | :------- | :------------------- | :-----|
-| `1` | `Three Sum` | **Two pointer** | [Leetcode](https://leetcode.com/problems/3sum/description/) |
-| `2` | `Three Sum Closest` | **Two pointer** | [Leetcode](https://leetcode.com/problems/3sum-closest/description/) |
-
+| Day no. | Title    | Approach             | Link | Difficulty Level |
+| :------ | :------- | :------------------- | :-----| :---------|
+| `1` | `Three Sum` | **Two pointer** | [Leetcode](https://leetcode.com/problems/3sum/description/) | **Medium** |
+| `2` | `Three Sum Closest` | **Two pointer** | [Leetcode](https://leetcode.com/problems/3sum-closest/description/) | **Medium** |
+| `3` | `Four Sum` | **Two pointer** | [Leetcode](https://leetcode.com/problems/4sum/description/) | **Medium** |
