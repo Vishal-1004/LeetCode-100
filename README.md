@@ -10,3 +10,4 @@ I have embarked on a mission to conquer 100 Leetcode challenges. To maintain a s
 | `3` | `Four Sum` | **Two pointer** | [Leetcode](https://leetcode.com/problems/4sum/description/) | **Medium** |
 | `4` | `Remove Element` | **Pointer** | [Leetcode](https://leetcode.com/problems/remove-element/description/) | **Easy** |
 | `5` | `Search Insert Position` | **Binary Search** | [Leetcode](https://leetcode.com/problems/search-insert-position/description/) | **Easy** |
+| `6` | `First & Last Position of Element` | **Binary Search** | [Leetcode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | **Medium** |
