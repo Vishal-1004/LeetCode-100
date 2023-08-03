@@ -9,3 +9,4 @@ I have embarked on a mission to conquer 100 Leetcode challenges. To maintain a s
 | `2` | `Three Sum Closest` | **Two pointer** | [Leetcode](https://leetcode.com/problems/3sum-closest/description/) | **Medium** |
 | `3` | `Four Sum` | **Two pointer** | [Leetcode](https://leetcode.com/problems/4sum/description/) | **Medium** |
 | `4` | `Remove Element` | **Pointer** | [Leetcode](https://leetcode.com/problems/remove-element/description/) | **Easy** |
+| `5` | `Search Insert Position` | **Binary Search** | [Leetcode](https://leetcode.com/problems/search-insert-position/description/) | **Easy** |
