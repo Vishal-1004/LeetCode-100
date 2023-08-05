@@ -14,3 +14,4 @@ I have embarked on a mission to conquer 100 Leetcode challenges. To maintain a s
 | `7` | `Container With Most Water` | **Two Pointer** | [Leetcode](https://leetcode.com/problems/container-with-most-water/) | **Medium** |
 | `8` | `Remove Duplicated from Sorted Array` | **Pointers** | [Leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | **Medium**|
 | `9` | `Find Minimum in Rotated Sorted Arrat` | **Binary Search** | [Leetcode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | **Medium** |
+| `10` | `Single Number` | **Bit manipulation** | [Leetcode](https://leetcode.com/problems/single-number/description/) | **Easy** |
