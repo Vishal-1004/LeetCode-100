@@ -13,3 +13,4 @@ I have embarked on a mission to conquer 100 Leetcode challenges. To maintain a s
 | `6` | `First & Last Position of Element` | **Binary Search** | [Leetcode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | **Medium** |
 | `7` | `Container With Most Water` | **Two Pointer** | [Leetcode](https://leetcode.com/problems/container-with-most-water/) | **Medium** |
 | `8` | `Remove Duplicated from Sorted Array` | **Pointers** | [Leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | **Medium**|
+| `9` | `Find Minimum in Rotated Sorted Arrat` | **Binary Search** | [Leetcode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | **Medium** |
