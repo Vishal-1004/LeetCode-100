@@ -30,5 +30,6 @@ class Solution(object):
 
         for ct in t:
             c ^= ord(ct)
-
+        
+        '''finally returning the answer by converting into character again'''
         return chr(c)
