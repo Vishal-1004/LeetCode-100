@@ -18,3 +18,4 @@ I have embarked on a mission to conquer 100 Leetcode challenges. To maintain a s
 | `11` | `Repeated DNA Sequence` | **Rolling Hash Function** | [Leetcode](https://leetcode.com/problems/repeated-dna-sequences/description/) | **Medium**|
 |  `12` | `Find The Difference` | **Bit Manipulation** | [Leetcode](https://leetcode.com/problems/find-the-difference/description/) | **Easy**|
 | `13` | `Reverse Bit` | **Bit Manipulation** | [Leetcode](https://leetcode.com/problems/reverse-bits/description/) | **Easy** |
+| `14` | `Max Product of Words Length` | **Bit Manipulation** | [Leetcode](https://leetcode.com/problems/maximum-product-of-word-lengths/description/) | **Medium** |
