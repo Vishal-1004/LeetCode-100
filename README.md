@@ -1,7 +1,7 @@
 # Hi, I'm Vishal Kumar Yadav! 👋
 I have embarked on a mission to conquer 100 Leetcode challenges. To maintain a systematic record of my progress, I am diligently logging all the questions I tackle on a daily basis in this repository.
 
-### Index
+## Index
 
 | Day no. | Title    | Approach             | Link | Difficulty Level |
 | :------ | :------- | :------------------- | :-----| :---------|
@@ -19,3 +19,9 @@ I have embarked on a mission to conquer 100 Leetcode challenges. To maintain a s
 |  `12` | `Find The Difference` | **Bit Manipulation** | [Leetcode](https://leetcode.com/problems/find-the-difference/description/) | **Easy**|
 | `13` | `Reverse Bit` | **Bit Manipulation** | [Leetcode](https://leetcode.com/problems/reverse-bits/description/) | **Easy** |
 | `14` | `Max Product of Words Length` | **Bit Manipulation** | [Leetcode](https://leetcode.com/problems/maximum-product-of-word-lengths/description/) | **Medium** |
+
+
+## Difficulty Level Of Questions
+
+|`Level` | **Easy** | **Medium** | **Hard** |
+|`Total Solved` | 05 | 09 | 0 |
