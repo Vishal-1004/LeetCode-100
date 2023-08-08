@@ -1,6 +1,8 @@
 # Hi, I'm Vishal Kumar Yadav! 👋
 I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To maintain a systematic record of my progress, I am diligently logging all the questions I tackle on a daily basis in this repository.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-1004&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-1004" /> </p>
+
 ## Index
 
 | Day no. | Title    | Approach             | Link | Difficulty Level |
