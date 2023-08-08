@@ -1,5 +1,5 @@
 class Solution(object):
-    def maxProduct(self, words: List[str]) -> int:
+    def maxProduct(self, words):
         '''this function takes two array as input and runs a for loop along then, if at any point the values turns out to be True for both the arrays at the same index then we will return True which indicates that both the arrays have a letter in common and hence cannot be used to finding maximum product, else we will return False'''
         def common(chars1, chars2):
             for c1, c2 in zip(chars1, chars2):
