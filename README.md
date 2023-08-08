@@ -24,4 +24,5 @@ I have embarked on a mission to conquer 100 Leetcode challenges. To maintain a s
 ## Difficulty Level Of Questions
 
 |`Level` | **Easy** | **Medium** | **Hard** |
+| :----- | :------- | :--------- | :------- |
 |`Total Solved` | 05 | 09 | 0 |
