@@ -33,7 +33,7 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 
 ## Join With ME!!
 <p align="left">
-<a href="https://github.com/Vishal-1004" target="_blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" alt="Vishal-1004" height="30" width="45"/></a>
-<a href="https://www.linkedin.com/in/vishal-kumar-yadav-8085a3232/" target="_blank"><img align="center" src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" alt="vishal-kumar-yadav-8085a3232" height="30" width="45"/></a>
-<a href="https://leetcode.com/vishal100403/" target="_blank"><img align="center" src="https://th.bing.com/th/id/OIP.jlFRTpn75iQt63ANsB7DTgHaHa?pid=ImgDet&rs=1" alt="vishal100403" height="30" width="45"/></a>
+<a href="https://github.com/Vishal-1004" target="_blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" alt="Vishal-1004" height="30" width="50"/></a>
+<a href="https://www.linkedin.com/in/vishal-kumar-yadav-8085a3232/" target="_blank"><img align="center" src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" alt="vishal-kumar-yadav-8085a3232" height="30" width="50"/></a>
+<a href="https://leetcode.com/vishal100403/" target="_blank"><img align="center" src="https://mayukhkchanda.github.io/portfolio/assets/images/leetcode-logo.png" alt="vishal100403" height="30" width="50"/></a>
 </p>
