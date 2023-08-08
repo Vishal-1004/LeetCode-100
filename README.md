@@ -1,5 +1,5 @@
 # Hi, I'm Vishal Kumar Yadav! 👋
-I have embarked on a mission to conquer 100 Leetcode challenges. To maintain a systematic record of my progress, I am diligently logging all the questions I tackle on a daily basis in this repository.
+I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To maintain a systematic record of my progress, I am diligently logging all the questions I tackle on a daily basis in this repository.
 
 ## Index
 
@@ -25,4 +25,8 @@ I have embarked on a mission to conquer 100 Leetcode challenges. To maintain a s
 
 |`Level` | **Easy** | **Medium** | **Hard** |
 | :----- | :------- | :--------- | :------- |
-|`Total Solved` | 05 | 09 | 0 |
+|`Solved` | 05 | 09 | 0 |
+
+## Topics Covered
+
+`Binary Search` `Bit Manipulation` `Hash Table` `Pointer` `Two Pointers` 
