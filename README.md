@@ -28,7 +28,7 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 
 |`Level` | **Easy** | **Medium** | **Hard** |
 | :----- | :------- | :--------- | :------- |
-|`Solved` | 05 | 11 | 0 |
+|`Solved` | 05 | 10 | 0 |
 
 ## Topics Covered
 
