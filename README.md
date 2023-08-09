@@ -22,13 +22,14 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `13` | `Reverse Bit` | **Bit Manipulation** | [Leetcode](https://leetcode.com/problems/reverse-bits/description/) | **Easy** |
 | `14` | `Max Product of Words Length` | **Bit Manipulation** | [Leetcode](https://leetcode.com/problems/maximum-product-of-word-lengths/description/) | **Medium** |
 | `15` | `Subsets` | **Iterative Method** | [Leetcode](https://leetcode.com/problems/subsets/) | **Medium** |
+| `16` | `Merge Intervals` | **Sorting** | [Leetcode](https://leetcode.com/problems/merge-intervals/description/) | **Medium** |
 
 
 ## Difficulty Level Of Questions
 
 |`Level` | **Easy** | **Medium** | **Hard** |
 | :----- | :------- | :--------- | :------- |
-|`Solved` | 05 | 10 | 0 |
+|`Solved` | 05 | 11 | 0 |
 
 ## Topics Covered
 
