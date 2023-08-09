@@ -18,3 +18,6 @@ class Solution(object):
             thus this is what we want'''
             res += [item+[num] for item in res]
         return res
+    
+    ''' now suppose we would have got nums as [1,2,2] and they would have asked to find all the unique subsets so we can use the set property and the convert the res back to a list but this property only work on hashable elements and 2D array is not hashable to instead first make the inner array as tuple and then use set and list property as follows:
+    unique_array = list(set(tuple(sublist) for sublist in res))'''
