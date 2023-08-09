@@ -21,13 +21,14 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 |  `12` | `Find The Difference` | **Bit Manipulation** | [Leetcode](https://leetcode.com/problems/find-the-difference/description/) | **Easy**|
 | `13` | `Reverse Bit` | **Bit Manipulation** | [Leetcode](https://leetcode.com/problems/reverse-bits/description/) | **Easy** |
 | `14` | `Max Product of Words Length` | **Bit Manipulation** | [Leetcode](https://leetcode.com/problems/maximum-product-of-word-lengths/description/) | **Medium** |
+| `15` | `Subsets` | **Iterative Method** | [Leetcode](https://leetcode.com/problems/subsets/) | **Medium** |
 
 
 ## Difficulty Level Of Questions
 
 |`Level` | **Easy** | **Medium** | **Hard** |
 | :----- | :------- | :--------- | :------- |
-|`Solved` | 05 | 09 | 0 |
+|`Solved` | 05 | 11 | 0 |
 
 ## Topics Covered
 
