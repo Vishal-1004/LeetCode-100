@@ -23,13 +23,13 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `14` | `Max Product of Words Length` | **Bit Manipulation** | [Leetcode](https://leetcode.com/problems/maximum-product-of-word-lengths/description/) | **Medium** |
 | `15` | `Subsets` | **Iterative Method** | [Leetcode](https://leetcode.com/problems/subsets/) | **Medium** |
 | `16` | `Merge Intervals` | **Sorting** | [Leetcode](https://leetcode.com/problems/merge-intervals/description/) | **Medium** |
-
+| `17` | `Group Anagrams` | **Sorting** | [Leetcode](https://leetcode.com/problems/group-anagrams/description/) | **Medium** |
 
 ## Difficulty Level Of Questions
 
 |`Level` | **Easy** | **Medium** | **Hard** |
 | :----- | :------- | :--------- | :------- |
-|`Solved` | 05 | 11 | 00 |
+|`Solved` | 05 | 12 | 00 |
 
 ## Topics Covered
 
