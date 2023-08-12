@@ -24,7 +24,8 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `15` | `Subsets` | **Iterative Method** | [Leetcode](https://leetcode.com/problems/subsets/) | **Medium** |
 | `16` | `Merge Intervals` | **Sorting** | [Leetcode](https://leetcode.com/problems/merge-intervals/description/) | **Medium** |
 | `17` | `Group Anagrams` | **Sorting** | [Leetcode](https://leetcode.com/problems/group-anagrams/description/) | **Medium** |
-| `18` | `Kth Largest Element in Array` | **Heap/Sorting** | [Leetcode](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | **Medium** |
+| `18` | `Kth Largest Element in Array` | **Heap** | [Leetcode](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | **Medium** |
+| `19` | `Top K Frequent Elements` | **Heap** | [Leetcode](https://leetcode.com/problems/top-k-frequent-elements/description/) | **Medium** |
 
 ## Difficulty Level Of Questions
 
