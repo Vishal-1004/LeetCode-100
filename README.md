@@ -31,7 +31,7 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 
 |`Level` | **Easy** | **Medium** | **Hard** |
 | :----- | :------- | :--------- | :------- |
-|`Solved` | 05 | 13 | 00 |
+|`Solved` | 05 | 14 | 00 |
 
 ## Topics Covered
 
