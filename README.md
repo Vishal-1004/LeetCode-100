@@ -36,7 +36,7 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 
 ## Topics Covered
 
-`Binary Search` `Bit Manipulation` `Hash Table` `Pointer` `Two Pointers` `Sorting`
+`Binary Search` `Bit Manipulation` `Hash Table` `Pointer` `Two Pointers` `Sorting` `Heap`
 
 ## Join With ME!!
 <p align="left">
