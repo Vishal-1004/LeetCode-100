@@ -28,12 +28,13 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `19` | `Top K Frequent Elements` | **Heap** | [Leetcode](https://leetcode.com/problems/top-k-frequent-elements/description/) | **Medium** |
 | `20` | `Kth Smallest Element in a Sorted Matrix` | **Heap** | [Leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | **Medium** |
 | `21` | `Sorting Characters By Frequency` | **Heap** | [Leetcode](https://leetcode.com/problems/sort-characters-by-frequency/description/) | **Medium** |
+| `22` | `Mini Moves to Equal Arr Elements` | **Sorting** | [Leetcode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/) | **Medium** |
 
 ## Difficulty Level Of Questions
 
 |`Level` | **Easy** | **Medium** | **Hard** |
 | :----- | :------- | :--------- | :------- |
-|`Solved` | 05 | 16 | 00 |
+|`Solved` | 05 | 17 | 00 |
 
 ## Topics Covered
 
