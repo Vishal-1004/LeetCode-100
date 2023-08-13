@@ -29,6 +29,7 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `20` | `Kth Smallest Element in a Sorted Matrix` | **Heap** | [Leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | **Medium** |
 | `21` | `Sorting Characters By Frequency` | **Heap** | [Leetcode](https://leetcode.com/problems/sort-characters-by-frequency/description/) | **Medium** |
 | `22` | `Mini Moves to Equal Arr Elements` | **Sorting** | [Leetcode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/) | **Medium** |
+| `23` | `Reorganize String` | **Heap** | [Leetcode](https://leetcode.com/problems/reorganize-string/description/) | **Medium** |
 
 ## Difficulty Level Of Questions
 
