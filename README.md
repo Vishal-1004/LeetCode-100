@@ -32,12 +32,13 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `23` | `Reorganize String` | **Heap** | [Leetcode](https://leetcode.com/problems/reorganize-string/description/) | **Medium** |
 | `24` | `Longest Happy String` | **Heap** | [Leetcode](https://leetcode.com/problems/longest-happy-string/description/) | **Medium** |
 | `25` | `Rearrange Words in Sentence` | **Heap** | [Leetcode](https://leetcode.com/problems/rearrange-words-in-a-sentence/description/) | **Medium** |
+| `26` | `Boats to Save People` | **Two pointers** | [Leetcode](https://leetcode.com/problems/boats-to-save-people/description/) | **Medium** |
 
 ## Difficulty Level Of Questions
 
 |`Level` | **Easy** | **Medium** | **Hard** |
 | :----- | :------- | :--------- | :------- |
-|`Solved` | 05 | 20 | 00 |
+|`Solved` | 05 | 21 | 00 |
 
 ## Topics Covered
 
