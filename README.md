@@ -31,12 +31,13 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `22` | `Mini Moves to Equal Arr Elements` | **Sorting** | [Leetcode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/) | **Medium** |
 | `23` | `Reorganize String` | **Heap** | [Leetcode](https://leetcode.com/problems/reorganize-string/description/) | **Medium** |
 | `24` | `Longest Happy String` | **Heap** | [Leetcode](https://leetcode.com/problems/longest-happy-string/description/) | **Medium** |
+| `25` | `Rearrange Words in Sentence` | **Heap** | [Leetcode](https://leetcode.com/problems/rearrange-words-in-a-sentence/description/) | **Medium** |
 
 ## Difficulty Level Of Questions
 
 |`Level` | **Easy** | **Medium** | **Hard** |
 | :----- | :------- | :--------- | :------- |
-|`Solved` | 05 | 18 | 00 |
+|`Solved` | 05 | 20 | 00 |
 
 ## Topics Covered
 
