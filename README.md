@@ -33,6 +33,7 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `24` | `Longest Happy String` | **Heap** | [Leetcode](https://leetcode.com/problems/longest-happy-string/description/) | **Medium** |
 | `25` | `Rearrange Words in Sentence` | **Heap** | [Leetcode](https://leetcode.com/problems/rearrange-words-in-a-sentence/description/) | **Medium** |
 | `26` | `Boats to Save People` | **Two pointers** | [Leetcode](https://leetcode.com/problems/boats-to-save-people/description/) | **Medium** |
+| `27` | `Find Peak Element` | **Binary Search** | [Leetcode](https://leetcode.com/problems/find-peak-element/description/) | **Medium** |
 
 ## Difficulty Level Of Questions
 
