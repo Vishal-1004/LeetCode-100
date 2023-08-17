@@ -34,12 +34,13 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `25` | `Rearrange Words in Sentence` | **Heap** | [Leetcode](https://leetcode.com/problems/rearrange-words-in-a-sentence/description/) | **Medium** |
 | `26` | `Boats to Save People` | **Two pointers** | [Leetcode](https://leetcode.com/problems/boats-to-save-people/description/) | **Medium** |
 | `27` | `Find Peak Element` | **Binary Search** | [Leetcode](https://leetcode.com/problems/find-peak-element/description/) | **Medium** |
+| `28` | `Minimum Size Subarray Sum` | **Two Pointer** | [Leetcode](https://leetcode.com/problems/minimum-size-subarray-sum/description/) | **Medium** |
 
 ## Difficulty Level Of Questions
 
 |`Level` | **Easy** | **Medium** | **Hard** |
 | :----- | :------- | :--------- | :------- |
-|`Solved` | 05 | 21 | 00 |
+|`Solved` | 05 | 22 | 00 |
 
 ## Topics Covered
 
