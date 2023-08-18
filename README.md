@@ -35,6 +35,7 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `26` | `Boats to Save People` | **Two pointers** | [Leetcode](https://leetcode.com/problems/boats-to-save-people/description/) | **Medium** |
 | `27` | `Find Peak Element` | **Binary Search** | [Leetcode](https://leetcode.com/problems/find-peak-element/description/) | **Medium** |
 | `28` | `Minimum Size Subarray Sum` | **Two Pointers** | [Leetcode](https://leetcode.com/problems/minimum-size-subarray-sum/description/) | **Medium** |
+| `29` | `K-diff Pairs in an Array` | **Hashing** | [Leetcode](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) | **Medium** |
 
 ## Difficulty Level Of Questions
 
