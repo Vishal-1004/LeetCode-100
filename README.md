@@ -37,6 +37,7 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `28` | `Minimum Size Subarray Sum` | **Two Pointers** | [Leetcode](https://leetcode.com/problems/minimum-size-subarray-sum/description/) | **Medium** |
 | `29` | `K-diff Pairs in an Array` | **Hashing** | [Leetcode](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) | **Medium** |
 | `30` | `Single Element in a Sorted Array` | **Two pointers** | [Leetcode](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | **Medium** |
+| `31` | `Valid Triangle Number` | **Two pointers** | [Leetcode](https://leetcode.com/problems/valid-triangle-number/description/) | **Medium** |
 
 ## Difficulty Level Of Questions
 
