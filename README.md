@@ -36,12 +36,13 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `27` | `Find Peak Element` | **Binary Search** | [Leetcode](https://leetcode.com/problems/find-peak-element/description/) | **Medium** |
 | `28` | `Minimum Size Subarray Sum` | **Two Pointers** | [Leetcode](https://leetcode.com/problems/minimum-size-subarray-sum/description/) | **Medium** |
 | `29` | `K-diff Pairs in an Array` | **Hashing** | [Leetcode](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) | **Medium** |
+| `30` | `Single Element in a Sorted Array` | **Two pointers** | [Leetcode](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | **Medium** |
 
 ## Difficulty Level Of Questions
 
 |`Level` | **Easy** | **Medium** | **Hard** |
 | :----- | :------- | :--------- | :------- |
-|`Solved` | 05 | 23 | 00 |
+|`Solved` | 05 | 25 | 00 |
 
 ## Topics Covered
 
