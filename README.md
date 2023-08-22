@@ -38,12 +38,14 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `29` | `K-diff Pairs in an Array` | **Hashing** | [Leetcode](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) | **Medium** |
 | `30` | `Single Element in a Sorted Array` | **Two pointers** | [Leetcode](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | **Medium** |
 | `31` | `Valid Triangle Number` | **Two pointers** | [Leetcode](https://leetcode.com/problems/valid-triangle-number/description/) | **Medium** |
+| `32` | `Excel Sheet Column Number` | **Strings** | [Leetcode](https://leetcode.com/problems/excel-sheet-column-number/description/) | **Easy** |
+| `33` | `Excel Sheet Column Title` | **Strings** | [Leetcode](https://leetcode.com/problems/excel-sheet-column-title/description/) | **Easy** |
 
 ## Difficulty Level Of Questions
 
 |`Level` | **Easy** | **Medium** | **Hard** |
 | :----- | :------- | :--------- | :------- |
-|`Solved` | 05 | 25 | 00 |
+|`Solved` | 07 | 25 | 00 |
 
 ## Topics Covered
 
