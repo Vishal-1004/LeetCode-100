@@ -41,15 +41,17 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `32` | `Excel Sheet Column Number` | **Strings** | [Leetcode](https://leetcode.com/problems/excel-sheet-column-number/description/) | **Easy** |
 | `33` | `Excel Sheet Column Title` | **Strings** | [Leetcode](https://leetcode.com/problems/excel-sheet-column-title/description/) | **Easy** |
 
+| `34` | `Bitwise AND of Numbers Range` | **Bit Manipulation** | [Leetcode](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | **Medium** |
+
 ## Difficulty Level Of Questions
 
 |`Level` | **Easy** | **Medium** | **Hard** |
 | :----- | :------- | :--------- | :------- |
-|`Solved` | 07 | 26 | 00 |
+|`Solved` | 07 | 27 | 00 |
 
 ## Topics Covered
 
-`Binary Search` `Bit Manipulation` `Hash Table` `Pointer` `Two Pointers` `Sorting` `Heap`
+`Binary Search` `Bit Manipulation` `Hash Table` `Pointer` `Two Pointers` `Sorting` `Heap` `Strings`
 
 ## Join With ME!!
 <p align="left">
