@@ -40,14 +40,14 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `31` | `Valid Triangle Number` | **Two pointers** | [Leetcode](https://leetcode.com/problems/valid-triangle-number/description/) | **Medium** |
 | `32` | `Excel Sheet Column Number` | **Strings** | [Leetcode](https://leetcode.com/problems/excel-sheet-column-number/description/) | **Easy** |
 | `33` | `Excel Sheet Column Title` | **Strings** | [Leetcode](https://leetcode.com/problems/excel-sheet-column-title/description/) | **Easy** |
-
 | `34` | `Bitwise AND of Numbers Range` | **Bit Manipulation** | [Leetcode](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | **Medium** |
+| `35` | `Total Hamming Distance` | **Bit Manipulation** | [Leetcode](https://leetcode.com/problems/total-hamming-distance/description/) | **Medium** |
 
 ## Difficulty Level Of Questions
 
 |`Level` | **Easy** | **Medium** | **Hard** |
 | :----- | :------- | :--------- | :------- |
-|`Solved` | 07 | 27 | 00 |
+|`Solved` | 07 | 28 | 00 |
 
 ## Topics Covered
 
