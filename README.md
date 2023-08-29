@@ -43,12 +43,13 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `34` | `Bitwise AND of Numbers Range` | **Bit Manipulation** | [Leetcode](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | **Medium** |
 | `35` | `Total Hamming Distance` | **Bit Manipulation** | [Leetcode](https://leetcode.com/problems/total-hamming-distance/description/) | **Medium** |
 | `36` | `Min. Flips to Make a|b Equal to c` | **Bit Manipulation** | [Leetcode](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/description/) | **Medium** |
+| `37` | `Search a 2D Matrix` | **Binary Search** | [Leetcode](https://leetcode.com/problems/search-a-2d-matrix/description/) | **Medium** |
 
 ## Difficulty Level Of Questions
 
 |`Level` | **Easy** | **Medium** | **Hard** |
 | :----- | :------- | :--------- | :------- |
-|`Solved` | 07 | 29 | 00 |
+|`Solved` | 07 | 30 | 00 |
 
 ## Topics Covered
 
