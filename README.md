@@ -44,12 +44,13 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `35` | `Total Hamming Distance` | **Bit Manipulation** | [Leetcode](https://leetcode.com/problems/total-hamming-distance/description/) | **Medium** |
 | `36` | `Min. Flips to Make a|b Equal to c` | **Bit Manipulation** | [Leetcode](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/description/) | **Medium** |
 | `37` | `Search a 2D Matrix` | **Binary Search** | [Leetcode](https://leetcode.com/problems/search-a-2d-matrix/description/) | **Medium** |
+| `38` | `Koko Eating Bananas` | **Binary Search** | [Leetcode](https://leetcode.com/problems/koko-eating-bananas/description/) | **Medium** |
 
 ## Difficulty Level Of Questions
 
 |`Level` | **Easy** | **Medium** | **Hard** |
 | :----- | :------- | :--------- | :------- |
-|`Solved` | 07 | 30 | 00 |
+|`Solved` | 07 | 31 | 00 |
 
 ## Topics Covered
 
