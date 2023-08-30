@@ -52,24 +52,16 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | :----- | :------- | :--------- | :------- |
 |`Solved` | 07 | 31 | 00 |
 
-## Topics Covered
+## Topics 
 
 ### Tire 1  
-            | Topics Covered |
-            | :------------- |
-            | `Binary Search` |
-            | `Binary Search` |
-            | `Binary Search` |
-| Folder | Topics    |
-| :---------- | :------- |
-| ## Tire - 1 | `Binary Search` 
- `Bit Manipulation`
- `Hash Table`
- `Pointer`
- `Two Pointers`
- `Sorting`
- `Heap`
- `Strings`|
+| Topics Covered |
+| :------------- |
+| `Binary Search` |
+| `Binary Search` |
+| `Binary Search` |
+
+
 `Binary Search` `Bit Manipulation` `Hash Table` `Pointer` `Two Pointers` `Sorting` `Heap` `Strings`
 
 ## Join With ME!!
