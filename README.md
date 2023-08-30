@@ -54,9 +54,15 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 
 ## Topics Covered
 
+### Tire 1  
+            | Topics Covered |
+            | :------------- |
+            | `Binary Search` |
+            | `Binary Search` |
+            | `Binary Search` |
 | Folder | Topics    |
 | :---------- | :------- |
-| ###Tire - 1 | `Binary Search` 
+| ## Tire - 1 | `Binary Search` 
  `Bit Manipulation`
  `Hash Table`
  `Pointer`
