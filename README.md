@@ -58,11 +58,13 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | Topics Covered |
 | :------------- |
 | `Binary Search` |
-| `Binary Search` |
-| `Binary Search` |
-
-
-`Binary Search` `Bit Manipulation` `Hash Table` `Pointer` `Two Pointers` `Sorting` `Heap` `Strings`
+| `Bit Manipulation` |
+| `Hash Table` |
+| `Heap` |
+| `Pointers` |
+| `Sorting` |
+| `Strings` |
+| `Two Pointers` |
 
 ## Join With ME!!
 <p align="left">
