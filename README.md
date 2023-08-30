@@ -52,7 +52,7 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | :----- | :------- | :--------- | :------- |
 |`Solved` | 07 | 31 | 00 |
 
-## Topics 
+## Folder - Topics
 
 ### Tire 1  
 | Topics Covered |
