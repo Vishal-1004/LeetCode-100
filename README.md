@@ -45,18 +45,20 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `36` | `Min. Flips to Make a OR b Equal to c` | **Bit Manipulation** | [Leetcode](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/description/) | **Medium** |
 | `37` | `Search a 2D Matrix` | **Binary Search** | [Leetcode](https://leetcode.com/problems/search-a-2d-matrix/description/) | **Medium** |
 | `38` | `Koko Eating Bananas` | **Binary Search** | [Leetcode](https://leetcode.com/problems/koko-eating-bananas/description/) | **Medium** |
+| `39` | `Asteroid Collision` | **Stack** | [Leetcode](https://leetcode.com/problems/asteroid-collision/description/) | **Medium** |
 
 ## Difficulty Level Of Questions
 
 |`Level` | **Easy** | **Medium** | **Hard** |
 | :----- | :------- | :--------- | :------- |
-|`Solved` | 07 | 31 | 00 |
+|`Solved` | 07 | 32 | 00 |
 
 ## Folder - Topics
 
 | Folder | Topics Covered |
 | :----- | :------------- |
 | Tire 1 | `Binary Search` `Bit Manipulation` `Hash Table` `Heap` `Pointers` `Sorting` `Strings` `Two Pointers` |
+| Tire 2 | `Stack` |
 
 ## Join With ME!!
 <p align="left">
