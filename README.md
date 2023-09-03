@@ -48,12 +48,13 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `39` | `Asteroid Collision` | **Stack** | [Leetcode](https://leetcode.com/problems/asteroid-collision/description/) | **Medium** |
 | `40` | `Count Collisions on a Road` | **Two pointers** | [Leetcode](https://leetcode.com/problems/count-collisions-on-a-road/description/) | **Medium** |
 | `41` | `Simplify Path` | **Stack** | [Leetcode](https://leetcode.com/problems/simplify-path/description/) | **Medium** |
+| `42` | `Largest Rectangle in Histogram` | **Stack** | [Leetcode](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | **Hard** |
 
 ## Difficulty Level Of Questions
 
 |`Level` | **Easy** | **Medium** | **Hard** |
 | :----- | :------- | :--------- | :------- |
-|`Solved` | 07 | 34 | 00 |
+|`Solved` | 07 | 34 | 01 |
 
 ## Folder - Topics
 
