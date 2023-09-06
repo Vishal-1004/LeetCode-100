@@ -53,12 +53,13 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `44` | `Sliding Window Maximum` | **Queue** | [Leetcode](https://leetcode.com/problems/sliding-window-maximum/) | **Hard** |
 | `45` | `Daily Temperatures` | **Stack** | [Leetcode](https://leetcode.com/problems/daily-temperatures/description/) | **Medium** |
 | `46` | `Car Fleet` | **Stack** | [Leetcode](https://leetcode.com/problems/car-fleet/description/) | **Medium** |
+| `47` | `Remove K Digits` | **Stack** | [Leetcode](https://leetcode.com/problems/remove-k-digits/description/) | **Medium** |
 
 ## Difficulty Level Of Questions
 
 |`Level` | **Easy** | **Medium** | **Hard** |
 | :----- | :------- | :--------- | :------- |
-|`Solved` | 07 | 37 | 02 |
+|`Solved` | 07 | 38 | 02 |
 
 ## Folder - Topics
 
