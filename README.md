@@ -55,8 +55,8 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `46` | `Car Fleet` | **Stack** | [Leetcode](https://leetcode.com/problems/car-fleet/description/) | **Medium** |
 | `47` | `Remove K Digits` | **Stack** | [Leetcode](https://leetcode.com/problems/remove-k-digits/description/) | **Medium** |
 | `48` | `Reveal Cards In Increasing Order` | **Queue** | [Leetcode](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/) | **Medium** |
-| `49` | `Find the Winner of Circular Game` | [Leetcode](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/) | **Medium** |
-| `50` | `Continuous Subarrays` | [Leetcode](https://leetcode.com/problems/continuous-subarrays/description/) | **Medium** |
+| `49` | `Find the Winner of Circular Game` | **Stack** | [Leetcode](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/) | **Medium** |
+| `50` | `Continuous Subarrays` | **Queue** | [Leetcode](https://leetcode.com/problems/continuous-subarrays/description/) | **Medium** |
 
 ## Difficulty Level Of Questions
 
