@@ -69,7 +69,7 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | Folder | Topics Covered |
 | :----- | :------------- |
 | Tire 1 | `Binary Search` `Bit Manipulation` `Hash Table` `Heap` `Pointers` `Sorting` `Strings` `Two Pointers` |
-| Tire 2 | `Stack` `Queue` |
+| Tire 2 | `Stack` `Queue` `Monotonic Stacks` `Monotonic Queues` `Sliding Windows`|
 
 ## Join With ME!!
 <p align="left">
