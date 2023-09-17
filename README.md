@@ -57,12 +57,13 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `48` | `Reveal Cards In Increasing Order` | **Queue** | [Leetcode](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/) | **Medium** |
 | `49` | `Find the Winner of Circular Game` | **Stack** | [Leetcode](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/) | **Medium** |
 | `50` | `Continuous Subarrays` | **Queue** | [Leetcode](https://leetcode.com/problems/continuous-subarrays/description/) | **Medium** |
+| `51` | `Max Value of Equation` | **Queue** | [Leetcode](https://leetcode.com/problems/max-value-of-equation/description/) | **Hard** |
 
 ## Difficulty Level Of Questions
 
 |`Level` | **Easy** | **Medium** | **Hard** |
 | :----- | :------- | :--------- | :------- |
-|`Solved` | 07 | 41 | 02 |
+|`Solved` | 07 | 41 | 03 |
 
 ## Folder - Topics
 
