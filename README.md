@@ -58,19 +58,20 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `49` | `Find the Winner of Circular Game` | **Stack** | [Leetcode](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/) | **Medium** |
 | `50` | `Continuous Subarrays` | **Queue** | [Leetcode](https://leetcode.com/problems/continuous-subarrays/description/) | **Medium** |
 | `51` | `Max Value of Equation` | **Queue** | [Leetcode](https://leetcode.com/problems/max-value-of-equation/description/) | **Hard** |
+| `52` | `Reorder List` | **LinkedList** | [Leetcode](https://leetcode.com/problems/reorder-list/description/) | **Medium** |
 
 ## Difficulty Level Of Questions
 
 |`Level` | **Easy** | **Medium** | **Hard** |
 | :----- | :------- | :--------- | :------- |
-|`Solved` | 07 | 41 | 03 |
+|`Solved` | 07 | 42 | 03 |
 
 ## Folder - Topics
 
 | Folder | Topics Covered |
 | :----- | :------------- |
 | Tire 1 | `Binary Search` `Bit Manipulation` `Hash Table` `Heap` `Pointers` `Sorting` `Strings` `Two Pointers` |
-| Tire 2 | `Stack` `Queue` `Monotonic Stacks` `Monotonic Queues` `Sliding Windows`|
+| Tire 2 | `Stack` `Queue` `Monotonic Stacks/Queue` `Sliding Windows` `LinkedList`|
 
 ## Join With ME!!
 <p align="left">
