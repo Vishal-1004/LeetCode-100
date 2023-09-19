@@ -59,12 +59,13 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `50` | `Continuous Subarrays` | **Queue** | [Leetcode](https://leetcode.com/problems/continuous-subarrays/description/) | **Medium** |
 | `51` | `Max Value of Equation` | **Queue** | [Leetcode](https://leetcode.com/problems/max-value-of-equation/description/) | **Hard** |
 | `52` | `Reorder List` | **LinkedList** | [Leetcode](https://leetcode.com/problems/reorder-list/description/) | **Medium** |
+| `53` | `Remove LinkedList Elements` | **LinkedList** | [Leetcode](https://leetcode.com/problems/remove-linked-list-elements/) | **Easy** |
 
 ## Difficulty Level Of Questions
 
 |`Level` | **Easy** | **Medium** | **Hard** |
 | :----- | :------- | :--------- | :------- |
-|`Solved` | 07 | 42 | 03 |
+|`Solved` | 08 | 42 | 03 |
 
 ## Folder - Topics
 
