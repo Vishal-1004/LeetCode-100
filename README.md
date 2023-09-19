@@ -62,12 +62,13 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `53` | `Remove LinkedList Elements` | **LinkedList** | [Leetcode](https://leetcode.com/problems/remove-linked-list-elements/) | **Easy** |
 | `54` | `Merge Two Sorted LinkedList` | **LinkedList** | [Leetcode](https://leetcode.com/problems/merge-two-sorted-lists/description/) | **Easy** |
 | `55` | `Merge K Sorted LinkedList` | **LinkedList** | [Leetcode](https://leetcode.com/problems/merge-k-sorted-lists/description/) | **Hard** |
+| `56` | `Add Two Numbers` | **LinkedList** | [Leetcode](https://leetcode.com/problems/add-two-numbers/) | **Medium** |
 
 ## Difficulty Level Of Questions
 
 |`Level` | **Easy** | **Medium** | **Hard** |
 | :----- | :------- | :--------- | :------- |
-|`Solved` | 09 | 42 | 04 |
+|`Solved` | 09 | 43 | 04 |
 
 ## Folder - Topics
 
