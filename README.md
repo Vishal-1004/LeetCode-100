@@ -65,6 +65,7 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `56` | `Add Two Numbers` | **LinkedList** | [Leetcode](https://leetcode.com/problems/add-two-numbers/) | **Medium** |
 | `57` | `Remove Nth Node From End Of LL` | **LinkedList** | [Leetcode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | **Medium** |
 | `58` | `Sort LinkedList` | **LinkedList** | [Leetcode](https://leetcode.com/problems/sort-list/) | **Medium** |
+| `59` | `Rotate List` | **LinkedList** | [Leetcode](https://leetcode.com/problems/rotate-list/description/) | **Medium** |
 
 ## Difficulty Level Of Questions
 
