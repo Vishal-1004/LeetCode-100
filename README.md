@@ -64,12 +64,13 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `55` | `Merge K Sorted LinkedList` | **LinkedList** | [Leetcode](https://leetcode.com/problems/merge-k-sorted-lists/description/) | **Hard** |
 | `56` | `Add Two Numbers` | **LinkedList** | [Leetcode](https://leetcode.com/problems/add-two-numbers/) | **Medium** |
 | `57` | `Remove Nth Node From End Of LL` | **LinkedList** | [Leetcode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | **Medium** |
+| `58` | `Sort LinkedList` | **LinkedList** | [Leetcode](https://leetcode.com/problems/sort-list/) | **Medium** |
 
 ## Difficulty Level Of Questions
 
 |`Level` | **Easy** | **Medium** | **Hard** |
 | :----- | :------- | :--------- | :------- |
-|`Solved` | 09 | 44 | 04 |
+|`Solved` | 09 | 45 | 04 |
 
 ## Folder - Topics
 
