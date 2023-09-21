@@ -66,12 +66,13 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `57` | `Remove Nth Node From End Of LL` | **LinkedList** | [Leetcode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | **Medium** |
 | `58` | `Sort LinkedList` | **LinkedList** | [Leetcode](https://leetcode.com/problems/sort-list/) | **Medium** |
 | `59` | `Rotate List` | **LinkedList** | [Leetcode](https://leetcode.com/problems/rotate-list/description/) | **Medium** |
+| `60` | `LinkedList Cycle` | **LinkedList** | [Leetcode](https://leetcode.com/problems/linked-list-cycle/description/) | **Easy** |
 
 ## Difficulty Level Of Questions
 
 |`Level` | **Easy** | **Medium** | **Hard** |
 | :----- | :------- | :--------- | :------- |
-|`Solved` | 09 | 45 | 04 |
+|`Solved` | 10 | 45 | 04 |
 
 ## Folder - Topics
 
