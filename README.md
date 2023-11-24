@@ -67,6 +67,7 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `58` | `Sort LinkedList` | **LinkedList** | [Leetcode](https://leetcode.com/problems/sort-list/) | **Medium** |
 | `59` | `Rotate List` | **LinkedList** | [Leetcode](https://leetcode.com/problems/rotate-list/description/) | **Medium** |
 | `60` | `LinkedList Cycle` | **LinkedList** | [Leetcode](https://leetcode.com/problems/linked-list-cycle/description/) | **Easy** |
+| `61` | `Task Scheduling` | **Binary Search** | [---] | **Medium** |
 
 ## Difficulty Level Of Questions
 
