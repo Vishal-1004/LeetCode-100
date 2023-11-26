@@ -68,12 +68,13 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `59` | `Rotate List` | **LinkedList** | [Leetcode](https://leetcode.com/problems/rotate-list/description/) | **Medium** |
 | `60` | `LinkedList Cycle` | **LinkedList** | [Leetcode](https://leetcode.com/problems/linked-list-cycle/description/) | **Easy** |
 | `61` | `Task Scheduling` | **Binary Search** | [---] | **Medium** |
+| `62` | `Contiguous Array` | **Prefix Sum** | [---] | **Medium** |
 
 ## Difficulty Level Of Questions
 
 |`Level` | **Easy** | **Medium** | **Hard** |
 | :----- | :------- | :--------- | :------- |
-|`Solved` | 10 | 45 | 04 |
+|`Solved` | 10 | 48 | 04 |
 
 ## Folder - Topics
 
