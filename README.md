@@ -70,7 +70,7 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `61` | `Task Scheduling` | **Binary Search** | [---] | **Medium** |
 | `62` | `Contiguous Array` | **Prefix Sum** | [---] | **Medium** |
 
-## Difficulty Level Of Questions
+## Different Level Of Questions Solved
 
 |`Level` | **Easy** | **Medium** | **Hard** |
 | :----- | :------- | :--------- | :------- |
