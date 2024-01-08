@@ -69,19 +69,20 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | `60` | `LinkedList Cycle` | **LinkedList** | [Leetcode](https://leetcode.com/problems/linked-list-cycle/description/) | **Easy** |
 | `61` | `Task Scheduling` | **Binary Search** | [---] | **Medium** |
 | `62` | `Contiguous Array` | **Prefix Sum** | [---] | **Medium** |
+| `63` | `Permutation Sequence ` | **Recursion** | [Leetcode](https://leetcode.com/problems/permutation-sequence/) | **Hard** |
 
 ## Different Level Of Questions Solved
 
 |`Level` | **Easy** | **Medium** | **Hard** |
 | :----- | :------- | :--------- | :------- |
-|`Solved` | 10 | 48 | 04 |
+|`Solved` | 10 | 48 | 05 |
 
 ## Folder - Topics
 
 | Folder | Topics Covered |
 | :----- | :------------- |
 | Tire 1 | `Binary Search` `Bit Manipulation` `Hash Table` `Heap` `Pointers` `Sorting` `Strings` `Two Pointers` |
-| Tire 2 | `Stack` `Queue` `Monotonic Stacks/Queue` `Sliding Windows` `LinkedList`|
+| Tire 2 | `Stack` `Queue` `Monotonic Stacks/Queue` `Sliding Windows` `LinkedList` `Recursion`|
 
 ## Join With ME!!
 <p align="left">
